@@ -1,0 +1,60 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.nav{
+  background-color:#c5aa6a;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 15px 1rem;
+  border-color: white;
+}
+
+.site-title{
+  font-size: 2rem;
+  font-family: 'Lucida Sans', sans-serif;
+}
+
+.site-title span {
+  color: #6f7779;
+
+}
+
+.nav ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  font-family: "Cascadia Code";
+}
+
+.nav a{
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: .25rem;
+}
+
+.nav li.active{
+  background-color: #416F7C;
+}
+
+.nav li:hover {
+  background-color: #395e68;
+}
