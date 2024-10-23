@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-Amor-navbar/static/css/main.586dce3c.css",
+    "main.js": "/ws101-Amor-navbar/static/js/main.88a41401.js",
+    "index.html": "/ws101-Amor-navbar/index.html",
+    "main.586dce3c.css.map": "/ws101-Amor-navbar/static/css/main.586dce3c.css.map",
+    "main.88a41401.js.map": "/ws101-Amor-navbar/static/js/main.88a41401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586dce3c.css",
+    "static/js/main.88a41401.js"
+  ]
+}
